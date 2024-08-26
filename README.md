@@ -23,8 +23,8 @@ Results-oriented Java Developer with a strong focus on building scalable and mai
 *CGPA: 8.10*
 
 ### 📜 Certifications:
-- **Software Architect (Microservices)** - [Certification Link](#)
-- **Azure Fundamentals AZ-900** - [Certification Link](#)
+- **Software Architect (Microservices)** - [Certification Link](https://www.edureka.co/my-certificate/4a16f19a8f30b023b48db0e42cba884b)
+- **Azure Fundamentals AZ-900** - [Certification Link](https://learn.microsoft.com/en-us/users/shalinikumari-5354/credentials/e004c2a639e2d29c)
 
 ### 🔧 Highlights:
 - Developed and optimized Java modules with Spring Boot for scalable applications.
