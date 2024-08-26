@@ -34,8 +34,5 @@ Results-oriented Java Developer with a strong focus on building scalable and mai
 
 Feel free to connect with me through my [LinkedIn](https://www.linkedin.com/in/shalini-mishra99) or check out my projects on [GitHub](https://github.com/ShaliniCodeHub).
 
-Looking forward to collaborating on exciting projects!
 
 ---
-
-*“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
